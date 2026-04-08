@@ -1,9 +1,9 @@
 # emoji-cheat-sheet
 
-[![Up to Date](Video.Guru_20260103_120300824.mp4)](https://youtube.com/playlist?list=PL9gYSL74h0Ig8kz1x5WPzgJ6L-VIlKEb7&si=Ay6yarSWW2rupp6Y)
+[![Up to Date]([Video.Guru_20260103_120300824.mp4](https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea))]([https://youtube.com/playlist?list=PL9gYSL74h0Ig8kz1x5WPzgJ6L-VIlKEb7&si=Ay6yarSWW2rupp6Y](https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea))
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
-
+<img width="4096" height="2304" alt="Image" src="https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea" />
 ## Table of Contents
 
 - [Smileys & Emotion](#s1mileys--emotion)
